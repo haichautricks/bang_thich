@@ -39,4 +39,4 @@ async def on_voice_state_update(member, before, after):
 
 
 client.run(
-    'MTI3ODAzOTI2ODExNTM1MzY0Mg.Gk-cs-.cobg6rcvPy4ePY1xN3d5I_Ou08bz038SLa_24I')
+    'MTI3ODAzOTI2ODExNTM1MzY0Mg.Gk-cs-.cobg6rcvPy4ePY1xN3d5I_Ou08bz038SLa_24I00')
